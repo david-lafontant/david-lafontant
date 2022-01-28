@@ -10,7 +10,7 @@ I'm David Lafontant from Port-au-Prince, Haiti. Web development and Computer Sci
 - 🔭 I’m currently focused on JavaScript
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Javascript and React
-- 📫 How to reach me: [Email](david.lafontant@gmail.com)
+- 📫 How to reach me: [Email](lafontant.david@gmail.com)
 - 😄 Pronouns: He/His
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-lafontant)](https://github.com/david-lafontant/github-readme-stats)
