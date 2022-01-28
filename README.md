@@ -5,7 +5,7 @@
 
 
 ### Hi there 👋
-I'm David Lafontant from Port-au-Prince, Haiti. Web development and Computer Sciences enthusiastic. Interested in creative coding and data sciences.  Love music and design. Always learning. Here  to help you solve your web development challenges. Open for new opportunities.
+I'm David Lafontant from Port-au-Prince, Haiti. Web development and Computer Sciences enthusiastic. Interested in creative coding and data sciences.  Love music and design. Always learning. Here  to help you solve your web development challenges. Open to new opportunities.
 
 - 🔭 I’m currently focused on JavaScript
 - 🌱 I’m currently learning Web Development
