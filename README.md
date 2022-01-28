@@ -13,9 +13,7 @@ I'm David Lafontant from Port-au-Prince, Haiti. Web development and Computer Sci
 - 📫 How to reach me: [David Lafontant](mailto:lafontant.david@gmail.com)
 - 😄 Pronouns: He/His
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-lafontant)](https://github.com/david-lafontant/github-readme-stats)
-
+### Thank you stopping by
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=david-lafontant&count_private=false&theme=tokyonight&showicons=true)
