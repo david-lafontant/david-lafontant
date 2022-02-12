@@ -10,7 +10,7 @@ I'm David Lafontant from Port-au-Prince, Haiti. Web development and Computer Sci
 - 🔭 I’m currently focused on JavaScript
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Javascript and React
-- 📫 How to reach me: [David Lafontant](mailto:lafontant.david@gmail.com)
+- 📫 How to reach me: [lafontant.david@gmail.com](mailto:lafontant.david@gmail.com)
 - 😄 Pronouns: He/His
 
 ### Thank you stopping by
