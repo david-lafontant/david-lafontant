@@ -16,8 +16,4 @@ I'm David Lafontant. I am a Full Stack Web Developer. Specialized in Ruby on Rai
 ### Thank you stopping by
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=david-lafontant&count_private=false&theme=tokyonight&showicons=true)
 
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-lafontant&langs_count=5&theme=tokyonight)
