@@ -8,7 +8,7 @@
 I'm David Lafontant , currently in Santiago de los Caballeros, Dominican Republic.  I am a full-stack Web developer with solid experience in team management. Former [head of Direction of Economics Affairs ](http://www.conatel.gouv.ht/node/181) in Haiti's telecom regulatory body -CONATEL-. Main languages are Ruby and Javascript. I used React and Ruby on rails as main frameworks. [I am a lifelong learner interested in data analytics](https://github.com/david-lafontant/certificate), creative coding, and generative art. I love music and design. Here to help you solve your web development challenges. Open to new opportunities. 
 
 - 👨‍💻 Remote worker
-- 🌱 I’m a full stack web developer
+- 🌱 [I’m a full stack web developer](https://www.credential.net/1f98d393-a0eb-4a09-8d65-fb2ca09890c3#gs.9nas83)
 - 👯 I’m looking to collaborate on HTML, CSS, Javascript, Ruby on rails, and React.
 - 📫 How to reach me: [lafontant.david@gmail.com](mailto:lafontant.david@gmail.com)
 - ☎️ +8097599396
