@@ -5,12 +5,14 @@
 
 ![](https://komarev.com/ghpvc/?username=david-lafontant&label=PROFILE+VIEWS)
 ### Hi there 👋
-I'm David Lafontant from Port-au-Prince, Haiti, Currently in Santiago de los Caballeros, Dominican Republic.  I am a full-stack Web developer. Main languages are Ruby and Javascript. I used React and Ruby on rails as main frameworks. Web development and Data analytics enthusiastic. I am interested in creative coding and generative art. I love music and design. I am always learning. Here to help you solve your web development challenges. Open to new opportunities. 
+I'm David Lafontant , currently in Santiago de los Caballeros, Dominican Republic.  I am a full-stack Web developer with solid experience in team management. Former [head of Direction of Economics Affairs ](http://www.conatel.gouv.ht/node/181) in Haiti's telecom regulatory body -CONATEL-. Main languages are Ruby and Javascript. I used React and Ruby on rails as main frameworks. [I am a lifelong learner interested in data analytics](https://github.com/david-lafontant/certificate), creative coding, and generative art. I love music and design. Here to help you solve your web development challenges. Open to new opportunities. 
 
-- 🔭 I’m currently focused on JavaScript and Ruby
+- 👨‍💻 Remote worker
 - 🌱 I’m a full stack web developer
 - 👯 I’m looking to collaborate on HTML, CSS, Javascript, Ruby on rails, and React.
 - 📫 How to reach me: [lafontant.david@gmail.com](mailto:lafontant.david@gmail.com)
+- ☎️ +8097599396
+- 🌐 [www.davidlafontant.tech](www.davidlafontant.tech)
 - 😄 Pronouns: He/His
 
 ### Thank you stopping by
