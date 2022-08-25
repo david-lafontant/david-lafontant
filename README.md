@@ -12,7 +12,7 @@ I'm David Lafontant , currently in Santiago de los Caballeros, Dominican Republi
 - 👯 I’m looking to collaborate on HTML, CSS, Javascript, Ruby on rails, and React.
 - 📫 How to reach me: [lafontant.david@gmail.com](mailto:lafontant.david@gmail.com)
 - ☎️ +8097599396
-- 🌐 [www.davidlafontant.tech](www.davidlafontant.tech)
+- 🌐 [www.davidlafontant.tech](http://www.davidlafontant.tech/)
 - 😄 Pronouns: He/His
 
 ### Thank you stopping by
