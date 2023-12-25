@@ -12,7 +12,7 @@ I'm David Lafontant! I am a full-stack Web developer with solid experience in te
 - 👯 I’m looking to collaborate on HTML, CSS, Javascript, Ruby on rails, and React.
 - 📫 How to reach me: [lafontant.david@gmail.com](mailto:lafontant.david@gmail.com)
 - ☎️ +8097599396
-- 🌐 [www.davidlafontant.tech](http://www.davidlafontant.com/)
+- 🌐 [www.davidlafontant.com](http://www.davidlafontant.com/)
 - 😄 Pronouns: He/His
 
 ### Thank you stopping by
