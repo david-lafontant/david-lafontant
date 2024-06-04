@@ -13,7 +13,7 @@
 ---
 
 I am a full-stack Web developer with solid experience in team management.  Main languages are Ruby and JavaScript. I used Next, React, and Ruby on rails as main frameworks. Throughout my career, I have a knack for tackling challenges head-on and delivering solutions. Hiring me means bringing on board a versatile asset and a problem solver dedicated to contributing to team dynamics and delivering results. 
-For further discussion or exploring opportunities, feel free to contact me via email at: lafontant.david@gmail.com or whatsapp on +8097599396. 
+For further discussion or exploring opportunities, feel free to contact me via email at: lafontant.david@gmail.com or whatsapp on +(809) 759 9396. 
 I'm always open to new opportunities and collaborations. Feel free to reach out!.
 
 - 👨‍💻 Remote worker
@@ -24,7 +24,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - **Email:**  [lafontant.david@gmail.com](mailto:lafontant.david@gmail.com)
 - **LinkedIn:** [linkedin.com/in/david-lafontant](https://www.linkedin.com/in/david-lafontant)
 - **Portfolio:** [www.davidlafontant.com](https://www.davidlafontant.com/)
-- **Whatsapp:** +8097599396
+- **Whatsapp:** +(809)759 9396
 
 ---
 
