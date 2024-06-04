@@ -30,8 +30,8 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Ruby, SQL, CSS, HTML
-- **Frameworks & Libraries:** React, Ruby on Rails, Bootstrap
+- **Languages:** JavaScript, Ruby, Python, Java, TypeScript, SQL, CSS, HTML
+- **Frameworks & Libraries:** Node, Express, React, Ruby on Rails, Bootstrap, TailwindCSS, 
 - **Databases:** PostgreSQL, MySQL
 - **Other Tools:** Git, Docker, Webpack, AWS
 
