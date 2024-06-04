@@ -77,4 +77,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-lafontant&langs_count=5&theme=tokyonight)
-
